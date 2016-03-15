@@ -5,5 +5,9 @@
 ![alt tag](https://github.com/ramadansanli/search/blob/master/22.jpg?raw=true)
 
 
+#Requirments 
+  Python(NLTK)
+  Apache Solr
+
 
 
