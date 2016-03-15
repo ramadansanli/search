@@ -6,8 +6,8 @@
 
 
 #Requirments 
-  Python(NLTK)
-  Apache Solr
+  ##Python(NLTK)
+  ##Apache Solr
 
 
 
