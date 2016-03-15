@@ -10,6 +10,9 @@ The aim of this project is to make searching in the text files easier. When peop
   - Apache Solr
 
 
+#Project Development Steps
+   -Detect the sentence bounries
+   
 
 
 
