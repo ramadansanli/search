@@ -11,7 +11,9 @@ The aim of this project is to make searching in the text files easier. When peop
 
 
 #Project Development Steps
-   -Detect the sentence bounries
+   -Detect the sentence boundaries
+   -Detect turkish text sentence boundaries
+   -Detect a text file sentence boundaries
    
 
 
